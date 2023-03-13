@@ -8,6 +8,7 @@ A minecraft client with QoL and Performance in mind
   </ul>
 </html>
 <html><h1>KeyBindings</h1>
+<p>note these are only for the first ever release, certain versions need different mods</p>
   <ul>
     <li>F4 = freecam</li>
     <li>B = waypoint</li>
