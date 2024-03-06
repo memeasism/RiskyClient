@@ -1,6 +1,6 @@
 # RiskyClient
 A minecraft client with QoL and Performance in mind
-<html><h1>KeyBindings</h1>
+<html><h1>Setup</h1>
   <ul>
     <li>Download zip file</li>
     <li>Install fabric for the version you installed by using the <a target="_blank" href="https://fabricmc.net/">fabric installer</a> you can also use multimc, that is what I suggest</li>
